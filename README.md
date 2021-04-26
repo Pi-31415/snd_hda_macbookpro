@@ -53,6 +53,8 @@ Compiling and installing driver:
 dnf install wget make gcc kernel-devel
 ```
 **ubuntu package install**  
+
+Get linux source here [https://ubuntu.pkgs.org/20.04/ubuntu-proposed-main-amd64/linux-source-5.4.0_5.4.0-73.82_all.deb.html](https://ubuntu.pkgs.org/20.04/ubuntu-proposed-main-amd64/linux-source-5.4.0_5.4.0-73.82_all.deb.html)
 ```
 apt install wget make gcc linux-headers-generic
 ```
